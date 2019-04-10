@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="Assign-Message-Copy" version="SHA-512:417a1532b5295c7492085530d391c843ec0bb1406374fceabcd4c5f4aec3db4ea6b28d5bf050e6e2b7175b3a2ad4ea6ec074725c4dbf6a40276569f5777d4330"/>
+        <VersionInfo resourceName="Assign-Message-why" version="SHA-512:4f524fabdc0371fbf0ab3b86a6efe4d8f3713c9906e1e7e19158e75e1b498ec872d455df7af3daf7c8c0d85b995804a98d1f3815a84e92cb1197681222c44951"/>
+        <VersionInfo resourceName="Basic-Authentication-1" version="SHA-512:d9351218f7ce91736d59ee19ccdafa6c13080abda672ab5ceb89bc55f1d17fed66e2c8777fcd13f9045fd2130435cfa14bb8133150fff3c05aee817cc1ee2bed"/>
+        <VersionInfo resourceName="Basic-Authentication-2" version="SHA-512:2ced7b3648e9883380b5cf1d364540948eb780669c04445c657141be60f311425eb7442874a0ad6e1f1d917d576f44058fba728ea4f6d56e2087670cc345dee4"/>
+        <VersionInfo resourceName="Basic-Authentication-decode" version="SHA-512:7deaf73d91725369e3fc284aa7415ffd93026bea489ae2ed39ff9fd63be7d4bf9ee08824a5b7b1475ea0d6c49bb6f6a1c43e819762009681f0f32ebf7fc8646e"/>
+        <VersionInfo resourceName="JSON-Threat-Protection-1" version="SHA-512:444d647bae73fc65e93fc60e5499d517bdf3cff1ac9432c55533f829ce4c56de0f162bb9443d390cc071dc2d18675aac25203f7ef252ee9f95f71bd16941331c"/>
+        <VersionInfo resourceName="KVM-accessControl" version="SHA-512:ae9cf8f02a7c71bff37d828e8886582d0b9aaed8bc357017dd75bc95dcba0a8c0817050dc6e026bb044d1ae7f2e087e604dfeb7ad8d54598adf70a639173c2e7"/>
+        <VersionInfo resourceName="Key-Value-Map-Operations-1" version="SHA-512:7d7a2e4a43fc207b31a3d848bd5c63cc5bfff726224cd33d499416c2010dc525a167eb0fecc8e2d1726c8ac81f3d6af355ad36a024314994679d109108c8910b"/>
+        <VersionInfo resourceName="Key-Value-Map-Operations-Caching" version="SHA-512:e08893ee7a90d622c87a823f5089c5b9ce3a2132b8f5a4a9b90c40ac178eb468d312e6b9e8e8c40890eaed65c70d8d2f47382a1775b11a4dfad0ec6e48dd4df5"/>
+        <VersionInfo resourceName="Key-Value-Map-Operations-EncryptedGet" version="SHA-512:a20f47da11e044b705eb05e74da3da2c3d29bd7ad33ca84a54d12e86531623138cf45d65b2b1ebd2eaee8680fdeb91ca33d3ec788e45d8424487ba4a99a97af9"/>
+        <VersionInfo resourceName="Key-Value-Map-Operations-delete" version="SHA-512:7aabce2f3945a72f944594129eab72c8ca1f28a66f80a5bdf20bc9509e1ee0bc44e36f219606a9f6407eee9ee06465ef096e0e63302d86edf8dd2225fdec095b"/>
+        <VersionInfo resourceName="Key-Value-Map-Operations-update" version="SHA-512:3c75d792ab829585191faf62821c6338c978c648b020eab038fcd9d28b96b220a3f79d3abbd6513b626999f79faa4b6c5f7e57d5ab38fe6ff5e5a2eaed8df0b1"/>
+        <VersionInfo resourceName="Service-Callout-GoogleBooksApi" version="SHA-512:4acb3f69f51f5bf8c9dbe5f6501a808831f65848e3f768ac1665fb040089a2a1aa0ba39c2bb030da4a9d31feff57a89bd71081c86432a30dc6cb382212c1a2e1"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:9466156d8ca7fc5a4680f91bed6e86b5c98dfa272fd4c49c7da0d2b730de5760a47db61a1447840e238562d82d935a685f5c50f5cdf90d09f0a2ac0f6eb98dd2"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:43d08a58f2a7fddb415b15396ab338725eb90881f61e4540733ed8f4e65ce6ba06afd2be2be313eb1d2c775c399300d0aa9118b5f3d6ff95ea498e499b454115"/>
+    </TargetEndpoints>
+</Manifest>

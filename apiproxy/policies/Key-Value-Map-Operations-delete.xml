@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KeyValueMapOperations async="false" continueOnError="false" enabled="true" name="Key-Value-Map-Operations-delete" mapIdentifier="encypted_store1">
+    <DisplayName>Key Value Map Operations-delete</DisplayName>
+    <Properties/>
+    <Delete>
+        <Key>
+            <Parameter ref="request.queryparam.kvm"/>
+        </Key>
+    </Delete>
+    <Scope>environment</Scope>
+</KeyValueMapOperations>

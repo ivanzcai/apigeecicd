@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="2" name="httpbinget">
+    <Basepaths>/httpbinget</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1549594664308</CreatedAt>
+    <CreatedBy>ivan.z.cai@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>httpbinget</DisplayName>
+    <LastModifiedAt>1554854006508</LastModifiedAt>
+    <LastModifiedBy>ivan.z.cai@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:aa9590fc6f0b4669edcd199e9a28f510988c75d0ef64fe9fb2a6d749714deec4ef9b31ddca708e2ee0a7770c76ea802f451b9f7636690c1026e55457d553de03</ManifestVersion>
+    <Policies>
+        <Policy>Assign-Message-Copy</Policy>
+        <Policy>Assign-Message-why</Policy>
+        <Policy>Basic-Authentication-1</Policy>
+        <Policy>Basic-Authentication-2</Policy>
+        <Policy>Basic-Authentication-decode</Policy>
+        <Policy>JSON-Threat-Protection-1</Policy>
+        <Policy>KVM-accessControl</Policy>
+        <Policy>Key-Value-Map-Operations-1</Policy>
+        <Policy>Key-Value-Map-Operations-Caching</Policy>
+        <Policy>Key-Value-Map-Operations-EncryptedGet</Policy>
+        <Policy>Key-Value-Map-Operations-delete</Policy>
+        <Policy>Key-Value-Map-Operations-update</Policy>
+        <Policy>Service-Callout-GoogleBooksApi</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

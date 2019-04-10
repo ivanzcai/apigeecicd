@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KeyValueMapOperations async="false" continueOnError="false" enabled="true" name="KVM-accessControl" mapIdentifier="kvm_store1">
+    <DisplayName>KVM-accessControl</DisplayName>
+    <Properties/>
+    <ExclusiveCache>false</ExclusiveCache>
+    <ExpiryTimeInSecs>300</ExpiryTimeInSecs>
+    <InitialEntries>
+        <Entry>
+            <Key>
+                <Parameter>k1</Parameter>
+            </Key>
+            <Value>v1</Value>
+        </Entry>
+    </InitialEntries>
+    <Scope>environment</Scope>
+</KeyValueMapOperations>

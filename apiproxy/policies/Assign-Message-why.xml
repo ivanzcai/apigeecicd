@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AssignMessage async="false" continueOnError="false" enabled="true" name="Assign-Message-why">
+    <DisplayName>Assign Message-why</DisplayName>
+    <Properties/>
+    <Add>
+        <QueryParams>
+            <QueryParam name="Foo">bar</QueryParam>
+        </QueryParams>
+        <Headers>
+            <Header name="Blah">Blah Blah!</Header>
+        </Headers>
+    </Add>
+    <IgnoreUnresolvedVariables>true</IgnoreUnresolvedVariables>
+    <AssignTo createNew="false" transport="http" type="request"/>
+</AssignMessage>

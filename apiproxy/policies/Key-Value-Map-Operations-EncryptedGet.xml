@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KeyValueMapOperations async="false" continueOnError="false" enabled="true" name="Key-Value-Map-Operations-EncryptedGet" mapIdentifier="encypted_store1">
+    <DisplayName>Key Value Map Operations-EncryptedGet</DisplayName>
+    <Properties/>
+    <Get assignTo="private.username">
+        <Key>
+            <Parameter>backend_username</Parameter>
+        </Key>
+    </Get>
+    <Get assignTo="private.password">
+        <Key>
+            <Parameter>backend_password</Parameter>
+        </Key>
+    </Get>
+    <Scope>environment</Scope>
+</KeyValueMapOperations>

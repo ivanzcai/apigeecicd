@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KeyValueMapOperations async="false" continueOnError="false" enabled="true" name="Key-Value-Map-Operations-1" mapIdentifier="kvm_store1">
+    <DisplayName>Key Value Map Operations-Assign</DisplayName>
+    <Properties/>
+    <Get assignTo="request.queryparam.myname">
+        <Key>
+            <Parameter>name</Parameter>
+        </Key>
+    </Get>
+    <Scope>environment</Scope>
+</KeyValueMapOperations>

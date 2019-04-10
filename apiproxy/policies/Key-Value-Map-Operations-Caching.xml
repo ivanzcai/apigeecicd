@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KeyValueMapOperations async="false" continueOnError="false" enabled="true" name="Key-Value-Map-Operations-Caching" mapIdentifier="kvm_store1">
+    <DisplayName>Key Value Map Operations-Caching</DisplayName>
+    <Properties/>
+    <ExclusiveCache>false</ExclusiveCache>
+    <ExpiryTimeInSecs>3000</ExpiryTimeInSecs>
+    <Get assignTo="addressJson">
+        <Key>
+            <Parameter>address</Parameter>
+        </Key>
+    </Get>
+    <Scope>environment</Scope>
+</KeyValueMapOperations>
